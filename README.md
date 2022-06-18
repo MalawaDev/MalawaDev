@@ -13,5 +13,3 @@ I'm a student who loves coding and drawing pixel-art in his spare time.
 > Runtime environments
 >- Unity
 >- Node.js
-
-[My github page](https://malawadev.github.io/)
