@@ -1,15 +1,10 @@
-[![Banner](/img/banner.png)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
-<br>
-
 ## Hello, i'm Malawa
-I'm a student who loves coding and drawing pixel-art in his spare time.
+I'm a student who loves coding and drawing pixel-art in my spare time.
 
-## My most used Tech:
-> Languages
->- HTML, CSS, JavaScript
->- TypeScript
->- C#
+I've been programming random things since a while ago, but some of my favourites are:
 
-> Runtime environments
->- Unity
->- Node.js
+- Discord bots (on JS)
+- Unity games
+- Mods (mostly MC)
+
+I am also trying to use git more, because sometimes -in small projects mostly- i don't use it, and i think it's a good practice. 
