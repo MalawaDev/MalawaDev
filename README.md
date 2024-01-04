@@ -4,7 +4,7 @@
 
 ###
 
-<h2 align="center">I am a 20 years old developer with a lot of spare time</h2>
+<h2 align="center">I am a VTuber who also codes and draws</h2>
 <br>
 <h3>I code whatever random thing I imagine, and through the years I have coded several projects, but my favourites are: </h3>
 <h4 align="center">• Discord bots (on TS, with DJS)</h4>
@@ -12,7 +12,6 @@
 <h4 align="center">• Minecraft mods (forge)</h4>
 
 <h3 align="center">Feel free to join my Discord server to give feedback, suggest ideas, or just talk.</h3>
-<h3  align="center">You can also check out my Patreon page and support my work.</h3>
 
 ###
 
@@ -23,9 +22,6 @@
 <div align="center">
   <a href="https://discord.com/invite/cZJJzbqp9A" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  </a>
-  <a href="https://patreon.com/malawa" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Patreon&logo=patreon&label=&color=F96854&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="patreon logo"  />
   </a>
 </div>
 
