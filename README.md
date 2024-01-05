@@ -11,19 +11,11 @@
 <h4 align="center">• Electron apps (on TS)</h4>
 <h4 align="center">• Minecraft mods (forge)</h4>
 
-<h3 align="center">Feel free to join my Discord server to give feedback, suggest ideas, or just talk.</h3>
-
 ###
 
 <br clear="both">
 
 ###
-
-<div align="center">
-  <a href="https://discord.com/invite/cZJJzbqp9A" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  </a>
-</div>
 
 ###
 
