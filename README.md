@@ -1,15 +1,16 @@
 <h1 align="center">Hello, I'm Malawa 🔧</h1>
 
-<img align="left" height="450" src="https://malawa.dev/img/malawamain.png"  />
+<img align="left" height="450" src="https://malawa.dev/img/malawa.png" image- />
 
 ###
 
-<h2 align="center">I am a VTuber who also codes and draws</h2>
-<br>
-<h3>I code whatever random thing I imagine, and through the years I have coded several projects, but my favourites are: </h3>
-<h4 align="center">• Discord bots (on TS, with DJS)</h4>
-<h4 align="center">• Electron apps (on TS)</h4>
-<h4 align="center">• Minecraft mods (forge)</h4>
+<h3>I am a coder & pixelart artist. Also, occasionally a VTuber.</h3>
+<h3></h3>
+<h3>I code whatever random thing I imagine, and through the years I have coded several projects, but my favourites are:</h3>
+<h4>• Games (Mainly Unity, but also Godot & GMS)</h4>
+<h4>• Discord bots (on TS, with DJS)</h4>
+<h4>• Electron apps (on TS)</h4>
+<h4>• Minecraft mods (Forge) & Stardew Valley mods (SMAPI)</h4>
 
 ###
 
